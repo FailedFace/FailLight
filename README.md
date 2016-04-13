@@ -1,6 +1,8 @@
 FailLight
 =========
 
+[![Join the chat at https://gitter.im/FailedFace/FailLight](https://badges.gitter.im/FailedFace/FailLight.svg)](https://gitter.im/FailedFace/FailLight?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 No fuss FlashLight App
 
 Anyone using or distributing this app accepts any and all responsibility for the repercussions of doing so.
